@@ -35,7 +35,7 @@ struct CreateFakeContactsView: View {
                         .foregroundColor(.red)
                 }
                 if isShowingDone {
-                    Text("Successfully created \(howManyContacts) contacts.")
+                    Text("Successfully created \(howManyContacts) contacts I guess.")
                         .foregroundColor(.green)
                 }
                 Button {
