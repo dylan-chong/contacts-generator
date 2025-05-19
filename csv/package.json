@@ -1,0 +1,10 @@
+{
+  "name": "fake-data-generator",
+  "version": "1.0.0",
+  "description": "Generate fake contact data",
+  "main": "generate_fake_data.js",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "csv-writer": "^1.6.0"
+  }
+} 
